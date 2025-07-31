@@ -36,7 +36,7 @@ Foram treinados e avaliados três modelos distintos para comparar suas performan
 
 O **XGBoost** se consolidou como o modelo campeão, apresentando o maior poder de discriminação com um **AUC-ROC de 0.85**.
 
-![Curva ROC Comparativa](https://github.com/Sthefanie-neuro/analise_credito/blob/main/image_5af321.png)
+![Curva ROC Comparativa](./image_5af321.png)
 
 A análise das métricas revelou um claro trade-off entre a detecção de risco (Recall) e a certeza da previsão (Precisão), levando à escolha do XGBoost por seu maior potencial preditivo latente, que pode ser calibrado conforme a estratégia de risco do negócio.
 
